@@ -13,4 +13,5 @@ Email: arun.m@msds.christuniversity.in
 |3.|31-08-2023|Lab03|To Find Mean,Max,Min,Range from a given list using Fn|https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/d789c0a3adb311d29d0eb0c474bab8a4866fd579/Lab%2005.ipynb
 |4.|05-09-2023|Lab04|From Farm to Table: The Grocery Store Management System|https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/d789c0a3adb311d29d0eb0c474bab8a4866fd579/Lab%2005.ipynb
 |5.|12-09-2023|Lab05|Vowel Counter!|https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/d789c0a3adb311d29d0eb0c474bab8a4866fd579/Lab%2005.ipynb
+|6.|14-09-2023|Lab06|Mix & Match Calculator|https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/e26acaad2e0db0980e61dbd99efbe9134a2ab4c8/Lab06/lab06.ipynb
 
