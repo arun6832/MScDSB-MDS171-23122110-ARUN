@@ -16,3 +16,5 @@ Email: arun.m@msds.christuniversity.in
 |6.|14-09-2023|Lab06|Mix & Match Calculator|https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/e26acaad2e0db0980e61dbd99efbe9134a2ab4c8/Lab06/lab06.ipynb
 |7.|25-09-2023|Lab07|Expense Tracker|https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/6cd057d800631e345fa124f7100d776443c5dfac/Lab07.py
 |8.|03-10-2023|Lab08|Stack Class| https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/3c204d2efb32a57c574e1a2cb91fa1fa0218bf48/lab08.py
+|9.|10-10-2023|Lab09|Petstore |https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/tree/b84ea09c867fc9c6eeeade7e780715e734a45c6e/Lab09.py
+
