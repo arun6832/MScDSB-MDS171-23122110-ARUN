@@ -18,6 +18,6 @@ Email: arun.m@msds.christuniversity.in
 |8.|03-10-2023|Lab08|Stack Class|[Lab 8](https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/3c204d2efb32a57c574e1a2cb91fa1fa0218bf48/lab08.py)
 |9.|10-10-2023|Lab09|Petstore|[Lab 9](https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/tree/b84ea09c867fc9c6eeeade7e780715e734a45c6e/Lab09.py)
 |10.|26-10-2023|Lab10|Student Details|[Lab 10](https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/blob/efa7bd2d1faca6b83d0b8667ed4f14de449f3718/Lab%2010.ipynb)
-|11.|19-10-2023|CAC 1|Weather Forecating|[CAC 1](https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/tree/9856c6754edc361d4c53ecc797d746eebc896a24/CAC%201)
+|11.|19-09-2023|CAC 1|Weather Forecating|[CAC 1](https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/tree/9856c6754edc361d4c53ecc797d746eebc896a24/CAC%201)
 |12.|25-10-2023|CAC 2|Cafe Preferences|[CAC 2](https://github.com/arun6832/MScDSB-MDS171-23122110-ARUN/tree/9856c6754edc361d4c53ecc797d746eebc896a24/CAC%202)
 
